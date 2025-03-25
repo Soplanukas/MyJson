@@ -1,0 +1,15 @@
+{
+  "c2array": true,
+  "size": [9, 1, 2],
+  "data": [
+    [["No... esto no debería estar pasando...", "Boss"]],
+    [["Se acabó. No permitiré que sigas con esto.", "Jugador"]],
+    [["¿Realmente crees que me has derrotado? Eres solo otro peón en este ciclo sin fin.", "Boss"]],
+    [["¿De qué estás hablando?", "Jugador"]],
+    [["Yo fui como tú... un simple soldado. Pero cuando descubrí la verdad...", "Boss"]],
+    [["Fui traicionado y abandonado aquí. Me convertí en esto para sobrevivir.", "Boss"]],
+    [["Entonces... ¿eres como yo?", "Jugador"]],
+    [["Lo era. Pero ahora ya es demasiado tarde para mí. No cometas mi mismo error...", "Boss"]],
+    [["No pienso seguir este destino... Encontraré otra manera.", "Jugador"]]
+  ]
+}
